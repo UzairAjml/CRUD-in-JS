@@ -6,10 +6,6 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/UzairAjml/CRUD-in-JS.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
