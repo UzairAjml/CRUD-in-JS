@@ -1,0 +1,16 @@
+{
+  "name": "mini-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mini-project "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://UzairAjml.github.io/Travel",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
