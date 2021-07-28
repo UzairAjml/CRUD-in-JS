@@ -6,10 +6,14 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UzairAjml/CRUD-in-JS.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://UzairAjml.github.io/Travel",
+  "homepage": "https://UzairAjml.github.io/CRUD-in-JS",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
